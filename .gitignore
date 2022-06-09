@@ -1,0 +1,6 @@
+.vscode
+data/*.npy
+data/*.csv
+results/
+*logs/
+**/__pycache__
